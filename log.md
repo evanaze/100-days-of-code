@@ -12,3 +12,23 @@ It's frustrating that we know there are not any duplicate indicies, which would 
 
 **Link(s) to work**
 N/A so far.
+
+### Day 2: Tuesday, January 05, 2020
+
+**Today's Progress**: Slammed my head against the wall for a bit about the bug. That's it.
+
+**Thoughts**   
+I am glad I put in the work today, even though nothing came of it.
+
+**Link(s) to work**
+N/A so far.
+
+### Day 3: Wednesday, January 06, 2020
+
+**Today's Progress**: Fixed the damn bug. Also, wrote the script for a test, so now we can start doing back tests of real life strategies **!**.
+
+**Thoughts**   
+It feels good to be a gangster. Can't wait for that sweet, sweet easy dough to be coming in.
+
+**Link(s) to work**
+N/A so far.
