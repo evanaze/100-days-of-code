@@ -32,3 +32,15 @@ It feels good to be a gangster. Can't wait for that sweet, sweet easy dough to b
 
 **Link(s) to work**
 N/A so far.
+
+### Day 4: Thursday, January 07, 2020
+
+**Today's Progress**: Separated the `Preprocessor` object into two files. I am hoping this makes it easier for me to create pairs data for backtesting, but I have not wrapped my mind around that yet.
+Also, Amberdata announced that they added new exchanges to their API, so I can put off moving to cryptochassis for a while longer.
+I also investigated why I could not access my EC2 instance. Remains to be seen why that is the case.
+
+**Thoughts**   
+I don't think I made much of any real progress by moving my code around like that. I wish I knew if there were actual guidelines about how best to do this.
+
+**Link(s) to work**
+N/A so far.
