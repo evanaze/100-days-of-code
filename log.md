@@ -44,3 +44,13 @@ I don't think I made much of any real progress by moving my code around like tha
 
 **Link(s) to work**
 N/A so far.
+
+### Day 5: Friday, January 08, 2020
+
+**Today's Progress**: Created raw pairs trades data. Also started my first Twitch stream.
+
+**Thoughts**   
+I will probably want to do dynamic bars next, because I am not sure how to group the pairs data into bars.
+
+**Link(s) to work**
+N/A so far.
