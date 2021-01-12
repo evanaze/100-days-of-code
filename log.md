@@ -54,3 +54,28 @@ I will probably want to do dynamic bars next, because I am not sure how to group
 
 **Link(s) to work**
 N/A so far.
+
+### Day 6: Saturday, January 09, 2020
+
+**Today's Progress**: Refactored the backtest library a bit, worked on dynamically grouping trades into bars.
+
+**Thoughts**   
+It took longer than I would have thought, and the code base is messier than I would anticipate.
+
+**Link(s) to work**
+
+### Day 7: Sunday, January 10, 2020
+
+**Today's Progress**: Grouped trades by dynamic bars sizes.
+
+**Thoughts**   
+Next time I should:
+* Look into the statistical properties of the bars I made, and make sure that there aren't any anomolies.
+* Think about making the dynamic grouping into a Kalman Filter.
+
+### Day 8: Monday, January 10, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
