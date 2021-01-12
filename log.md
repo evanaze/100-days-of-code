@@ -75,7 +75,10 @@ Next time I should:
 
 ### Day 8: Monday, January 10, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Implemented strategy and finished grouping trades into bars.
 
 **Thoughts** 
+Not sure how long to make the back looking returns variable. Currently it is set to 1 hr, but the time barrier is set to 15 minutes.
+Should we be calculating returns on a minute by minute basis?
 
+Should we be using VWAP? Might be best for a momentum based strategy.
