@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Monday, January 04, 2020
+### Day 1: Monday, January 04, 2021
 
 **Today's Progress**: I found one simple error, having `head()` unneccessarily which was cutting my results into just 5.
 Unfortunately, this revealed that my previous bug has not been fixed as I had thought.
@@ -13,7 +13,7 @@ It's frustrating that we know there are not any duplicate indicies, which would 
 **Link(s) to work**
 N/A so far.
 
-### Day 2: Tuesday, January 05, 2020
+### Day 2: Tuesday, January 05, 2021
 
 **Today's Progress**: Slammed my head against the wall for a bit about the bug. That's it.
 
@@ -23,7 +23,7 @@ I am glad I put in the work today, even though nothing came of it.
 **Link(s) to work**
 N/A so far.
 
-### Day 3: Wednesday, January 06, 2020
+### Day 3: Wednesday, January 06, 2021
 
 **Today's Progress**: Fixed the damn bug. Also, wrote the script for a test, so now we can start doing back tests of real life strategies **!**.
 
@@ -33,7 +33,7 @@ It feels good to be a gangster. Can't wait for that sweet, sweet easy dough to b
 **Link(s) to work**
 N/A so far.
 
-### Day 4: Thursday, January 07, 2020
+### Day 4: Thursday, January 07, 2021
 
 **Today's Progress**: Separated the `Preprocessor` object into two files. I am hoping this makes it easier for me to create pairs data for backtesting, but I have not wrapped my mind around that yet.
 Also, Amberdata announced that they added new exchanges to their API, so I can put off moving to cryptochassis for a while longer.
@@ -45,7 +45,7 @@ I don't think I made much of any real progress by moving my code around like tha
 **Link(s) to work**
 N/A so far.
 
-### Day 5: Friday, January 08, 2020
+### Day 5: Friday, January 08, 2021
 
 **Today's Progress**: Created raw pairs trades data. Also started my first Twitch stream.
 
@@ -55,7 +55,7 @@ I will probably want to do dynamic bars next, because I am not sure how to group
 **Link(s) to work**
 N/A so far.
 
-### Day 6: Saturday, January 09, 2020
+### Day 6: Saturday, January 09, 2021
 
 **Today's Progress**: Refactored the backtest library a bit, worked on dynamically grouping trades into bars.
 
@@ -64,7 +64,7 @@ It took longer than I would have thought, and the code base is messier than I wo
 
 **Link(s) to work**
 
-### Day 7: Sunday, January 10, 2020
+### Day 7: Sunday, January 10, 2021
 
 **Today's Progress**: Grouped trades by dynamic bars sizes.
 
@@ -73,7 +73,7 @@ Next time I should:
 * Look into the statistical properties of the bars I made, and make sure that there aren't any anomolies.
 * Think about making the dynamic grouping into a Kalman Filter.
 
-### Day 8: Monday, January 10, 2020
+### Day 8: Monday, January 10, 2021
 
 **Today's Progress**: Implemented strategy and finished grouping trades into bars.
 
@@ -82,3 +82,11 @@ Not sure how long to make the back looking returns variable. Currently it is set
 Should we be calculating returns on a minute by minute basis?
 
 Should we be using VWAP? Might be best for a momentum based strategy.
+
+### Day 9: Wednesday, January 12, 2021
+
+**Today's Progress**: Learned about Fractional Differentiation, and did some EDA on my tick bars.
+
+**Thoughts** 
+I should review the general workflow for building a strategy, and whether I should test the naive model before I work on the Meta Model.
+How many times should I try to trade in a day?
