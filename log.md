@@ -90,3 +90,12 @@ Should we be using VWAP? Might be best for a momentum based strategy.
 **Thoughts** 
 I should review the general workflow for building a strategy, and whether I should test the naive model before I work on the Meta Model.
 How many times should I try to trade in a day?
+
+### Day 10: Thursday, January 13, 2021
+
+**Today's Progress**: Plotted Boll bands on the pairs data, I think we are good to go with labeling trades next. Afterwards, time to train an ML model.
+
+**Thoughts** 
+Ratio is fine for coint.
+No need to re-scale data.
+If we start writing too many bars, then the boll bands will change too rapidly in the given setup. May want to make boll bands based on time instead of bars. On second though, scratch that.
