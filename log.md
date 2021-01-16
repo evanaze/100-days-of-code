@@ -106,3 +106,10 @@ If we start writing too many bars, then the boll bands will change too rapidly i
 
 **Thoughts** 
 I should re-write my data ingestion script in Julia, and use Julia exclusively for my trading applications. It looks like it has everything I need, and it is a compiled language.
+
+### Day 12: Saturday, January 15, 2021
+
+**Today's Progress**: Trying to connect to the websocket in Julia
+
+**Thoughts** 
+This is more challenging than I would like. The lack of good documentation is a challenge, but the soln to look through the source code probably helps the learning curve.
