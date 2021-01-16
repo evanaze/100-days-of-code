@@ -99,3 +99,10 @@ How many times should I try to trade in a day?
 Ratio is fine for coint.
 No need to re-scale data.
 If we start writing too many bars, then the boll bands will change too rapidly in the given setup. May want to make boll bands based on time instead of bars. On second though, scratch that.
+
+### Day 11: Friday, January 14, 2021
+
+**Today's Progress**: Exploring the basics of Julia Lang.
+
+**Thoughts** 
+I should re-write my data ingestion script in Julia, and use Julia exclusively for my trading applications. It looks like it has everything I need, and it is a compiled language.
